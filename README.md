@@ -19,8 +19,8 @@ Bajo la directiva visionaria de **ZAARD XENOCRYPT**, el proyecto está respaldad
 | Rol / Rango | Oficial | Responsabilidades Clave y Autoridad de Despliegue |
 | :--- | :--- | :--- |
 | **Arquitecto y Fundador** | **ZAARD XENOCRYPT** | Estrategia del Protocolo, Visión del Ecosistema, Arquitectura de Seguridad Central y Gobernanza Maestra |
-| **Líder Senior de Despliegue** *(Rango: Comandante Nivel-1)* | **YEKA** | Despliegue de Contratos On-Chain, Asignación de Liquidez, Orquestación de Smart Contracts y Ejecución Técnica |
-| **Director Táctico en Jefe** *(Rango: Mariscal de Campo)* | **MAR** | Operaciones Estratégicas, Penetración de Mercado, Crecimiento del Ecosistema y Evaluación de Riesgos |
+| **Líder Senior de Despliegue** *(Rango: Comandante Nivel-1)* | **MAR SENIOR** | Despliegue de Contratos On-Chain, Asignación de Liquidez, Orquestación de Smart Contracts y Ejecución Técnica |
+| **Director Táctico en Jefe** *(Rango: Mariscal de Campo)* | **YEKA DIRECTOR** | Operaciones Estratégicas, Penetración de Mercado, Crecimiento del Ecosistema y Evaluación de Riesgos |
 
 ---
 
