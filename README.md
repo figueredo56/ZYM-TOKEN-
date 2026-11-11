@@ -1,48 +1,48 @@
-# ZYM Token ($ZYM) | Official Repository & Documentation
+# ZYM Token ($ZYM) | Repositorio Oficial y Documentación
 
-> **Official Directive:**  
-> *"Precision in deployment, absolute clarity in execution. ZYM Token is engineered not just for launch, but for sustained market authority."*  
-> — **ZAARD XENOCRYPT Command**
-
----
-
-## 📌 Executive Summary
-
-**ZYM Token ($ZYM)** is an advanced decentralized asset built to power a high-performance ecosystem focused on transparency, security, and long-term utility. Designed with robust tokenomics and strict security standards, $ZYM aligns institutional-grade reliability with community-driven execution.
-
-Under the visionary directive of **ZAARD XENOCRYPT**, the project is backed by high-tier cryptographic architecture, clear operational governance, and an elite deployment squad engineered to scale.
+> **Directiva Oficial:**  
+> *"Precisión en el despliegue, claridad absoluta en la ejecución. ZYM Token está diseñado no solo para el lanzamiento, sino para una autoridad sostenida en el mercado."*  
+> — **Comando ZAARD XENOCRYPT**
 
 ---
 
-## 🛡️ Core Leadership & Deployment Command Structure
+## 📌 Resumen Ejecutivo
 
-| Role / Rank | Officer | Key Responsibilities & Deployment Authority |
+**ZYM Token ($ZYM)** es un activo descentralizado avanzado, construido para impulsar un ecosistema de alto rendimiento enfocado en la transparencia, la seguridad y la utilidad a largo plazo. Diseñado con una tokenómica robusta y estrictos estándares de protección, $ZYM alinea la fiabilidad de nivel institucional con una ejecución impulsada por la comunidad.
+
+Bajo la directiva visionaria de **ZAARD XENOCRYPT**, el proyecto está respaldado por una arquitectura criptográfica de alto nivel, una gobernanza operativa clara y un escuadrón de despliegue de élite diseñado para escalar.
+
+---
+
+## 🛡️ Liderazgo Central y Estructura de Comando de Despliegue
+
+| Rol / Rango | Oficial | Responsabilidades Clave y Autoridad de Despliegue |
 | :--- | :--- | :--- |
-| **Architect & Founder** | **ZAARD XENOCRYPT** | Protocol Strategy, Ecosystem Vision, Core Security Architecture, and Master Governance |
-| **Senior Deployment Lead** *(Rank: Level-1 Commander)* | **YEKA** | On-Chain Contract Deployment, Liquidity Allocation, Smart Contract Orchestration, & Tech Execution |
-| **Chief Tactical Officer** *(Rank: Field Marshal)* | **MAR** | Strategic Operations, Market Penetration, Ecosystem Growth, & Risk Assessment |
+| **Arquitecto y Fundador** | **ZAARD XENOCRYPT** | Estrategia del Protocolo, Visión del Ecosistema, Arquitectura de Seguridad Central y Gobernanza Maestra |
+| **Líder Senior de Despliegue** *(Rango: Comandante Nivel-1)* | **YEKA** | Despliegue de Contratos On-Chain, Asignación de Liquidez, Orquestación de Smart Contracts y Ejecución Técnica |
+| **Director Táctico en Jefe** *(Rango: Mariscal de Campo)* | **MAR** | Operaciones Estratégicas, Penetración de Mercado, Crecimiento del Ecosistema y Evaluación de Riesgos |
 
 ---
 
-## ⚡ Why Trust ZYM Token?
+## ⚡ ¿Por qué confiar en ZYM Token?
 
-1. **Security & Cryptographic Standard:** Architected under the **ZAARD XENOCRYPT** technical framework, featuring immutable core functions, audited smart contracts, and anti-drain mechanisms.
-2. **Transparent Operational Chain:** Every deployment step—managed directly by **YEKA**—is verifiable on-chain, ensuring complete visibility over liquidity locks and contract ownership execution.
-3. **Strategic Market Execution:** Led by **MAR**, $ZYM utilizes targeted tactical expansions to drive sustainable volume, strategic partnerships, and ongoing liquidity stability.
-4. **Community-Centric Utility:** $ZYM acts as the core currency across all current and future ecosystem integrations, unlocking direct value for long-term holders.
+1. **Seguridad y Estándar Criptográfico:** Arquitectado bajo el marco técnico de **ZAARD XENOCRYPT**, con funciones centrales inmutables, contratos inteligentes auditados y mecanismos anti-drenaje.
+2. **Cadena Operativa Transparente:** Cada paso del despliegue —gestionado directamente por **YEKA**— es verificable en la blockchain (*on-chain*), garantizando visibilidad total sobre los bloqueos de liquidez y la ejecución del contrato.
+3. **Ejecución Estratégica de Mercado:** Liderado por **MAR**, $ZYM utiliza expansiones tácticas dirigidas para impulsar un volumen sostenible, alianzas estratégicas y estabilidad continua de la liquidez.
+4. **Utilidad Centrada en la Comunidad:** $ZYM actúa como la moneda principal en todas las integraciones actuales y futuras del ecosistema, desbloqueando valor directo para los titulares (*holders*) a largo plazo.
 
 ---
 
-## 📊 Tokenomics & Technical Specifications
+## 📊 Tokenómica y Especificaciones Técnicas
 
-- **Token Name:** ZYM Token
+- **Nombre del Token:** ZYM Token
 - **Ticker:** `$ZYM`
-- **Architecture:** Decentralized / Smart Contract Standard
-- **Security Status:** Multi-Layer Authorization & On-Chain Audit Verified
-- **Governance Directives:** Executive Oversight by ZAARD XENOCRYPT
+- **Arquitectura:** Estándar Descentralizado / Contrato Inteligente
+- **Estado de Seguridad:** Autorización Multicapa y Verificación de Auditoría On-Chain
+- **Directivas de Gobernanza:** Supervisión Ejecutiva por ZAARD XENOCRYPT
 
 ---
 
-## 📄 License & Verification
+## 📄 Licencia y Verificación
 
-All official smart contracts and deployment scripts are maintained under executive authorization by **ZAARD XENOCRYPT** and executed via **YEKA** and **MAR**. Always verify contract addresses against official channels.
+Todos los contratos inteligentes oficiales y scripts de despliegue se mantienen bajo autorización ejecutiva de **ZAARD XENOCRYPT** y son ejecutados a través de **YEKA** y **MAR**. Verifica siempre las direcciones de los contratos en los canales oficiales.
