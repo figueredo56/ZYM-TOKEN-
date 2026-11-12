@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZYM-TOKEN-/592bd95e83b9dab1b9a08fbe2b3cab4a8e4c1f3a/CC_20261105_154458.svg" alt="ZYM Token Logo" width="220" />
+</p>
 `0x5a1de9974c1279fbe989ce32899a1f4ece3fc53d`
 <div align="center">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1793917735714-d84b28c0d04f3063f454cbc1d8a062fb.png" alt="ZYM Token Logo" width="220" />
