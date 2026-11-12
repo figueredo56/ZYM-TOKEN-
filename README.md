@@ -78,3 +78,30 @@ Bajo la directiva visionaria de **ZAARD XENOCRYPT**, el proyecto está respaldad
 ## 📄 Licencia y Verificación
 
 Todos los contratos inteligentes oficiales y scripts de despliegue se mantienen bajo autorización ejecutiva de **ZAARD XENOCRYPT** y son ejecutados por **MAR** (Líder Senior) y **YEKA** (Jefe Técnico). Verifica siempre las direcciones oficiales antes de interactuar con el contrato.
+
+## 📄 Enlaces e Interfaces Oficiales
+
+* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
+* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
+* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
+* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
+
+---
+
+## 👤 Equipo Core & Desarrollo
+
+* **Lead Blockchain Architect & Founder:** Panga
+* **Firma de Ingeniería Criptográfica:** XENOCRYPT
+* **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+
+---
+
+> **⚠️ Descargo de Responsabilidad (Disclaimer):**  
+> La interacción con contratos inteligentes, tokens criptográficos y protocolos DeFi conlleva riesgos inherentes debido a la volatilidad del mercado. Este documento tiene fines estrictamente técnicos e informativos. Realice siempre su propia investigación (*DYOR*) antes de interactuar con cualquier activo digital o piscina de liquidez.
+
+<div align="center">
+
+  <p><b>Diseñado y Desarrollado con Alta Ingeniería por XENOCRYPT para ZAARD INNOVATION</b></p>
+  <p>© 2026 - Todos los derechos reservados</p>
+
+</div>
