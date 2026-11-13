@@ -59,6 +59,27 @@ Bajo la directiva visionaria de **ZAARD XENOCRYPT**, el proyecto está respaldad
 | **Jefe Técnico de Despliegue** | **YEKA** | Ingeniería On-Chain, Verificación de Contratos, Infraestructura y Ejecución Técnica |
 
 ---
+---
+
+## 🔥 Registro On-Chain de Quema (Token Burn)
+
+Verificación criptográfica de la reducción de suministro circulante dentro de la infraestructura de **ZAARD INNOVATION**.
+
+<div align="center">
+
+<a href="https://bscscan.com/tx/0x4be0a7b0e8780fb2d5be97acefc4eeb0ec30fa9198c38c6dcdf640307675c107">
+  <code>TX HASH: 0x4be0a7...7675c107</code>
+</a>
+
+<br><br>
+
+<a href="https://bscscan.com/tx/0x4be0a7b0e8780fb2d5be97acefc4eeb0ec30fa9198c38c6dcdf640307675c107">
+  <img src="https://img.shields.io/badge/VER_TRANSACCIÓN_EN_BSCSCAN-00FF88?style=for-the-badge&logo=bnbchain&logoColor=031411&color=00ff88" alt="Ver Transacción en BscScan">
+</a>
+
+</div>
+
+---
 
 ## ⚡ ¿Por qué confiar en ZYM Token?
 
