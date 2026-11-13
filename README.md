@@ -82,20 +82,20 @@ Verificación criptográfica de la reducción de suministro circulante dentro de
 ---
 ---
 
-## 🛡️ Verificación de Firma On-Chain (BscScan)
+## 🛡️ Contrato Inteligente Verificado (BscScan)
 
-Validación criptográfica oficial de la firma del contrato y el ecosistema **ZAARD INNOVATION** en la red BNB Smart Chain.
+Auditoría, código fuente y transacciones on-chain del protocolo **ZYM** dentro de la infraestructura de **ZAARD INNOVATION** en la red BNB Smart Chain.
 
 <div align="center">
 
-<a href="https://bscscan.com/verifiedSignatures?q=341721">
-  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794575234555-4cd11fd98f2c4eb15224b46a86a44ec5.png" alt="ZYM Verified Signature" width="280" style="border-radius: 14px; border: 2px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);" />
+<a href="https://bscscan.com/address/0x5a1de9974c1279fbe989ce32899a1f4ece3fc53d">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794575234555-4cd11fd98f2c4eb15224b46a86a44ec5.png" alt="ZYM Smart Contract" width="280" style="border-radius: 14px; border: 2px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);" />
 </a>
 
 <br><br>
 
-<a href="https://bscscan.com/verifiedSignatures?q=341721">
-  <img src="https://img.shields.io/badge/VER_FIRMA_BSCSCAN_ID_%23341721-00FF88?style=for-the-badge&logo=bnbchain&logoColor=031411&color=00ff8" alt="Ver Firma en BscScan">
+<a href="https://bscscan.com/address/0x5a1de9974c1279fbe989ce32899a1f4ece3fc53d">
+  <img src="https://img.shields.io/badge/VER_CONTRATO_EN_BSCSCAN-00FF88?style=for-the-badge&logo=bnbchain&logoColor=031411&color=00ff88" alt="Ver Contrato en BscScan">
 </a>
 
 <br><br>
@@ -105,7 +105,6 @@ Validación criptográfica oficial de la firma del contrato y el ecosistema **ZA
 </div>
 
 ---
-
 ---
 
 ## ⚡ ¿Por qué confiar en ZYM Token?
