@@ -88,13 +88,13 @@ Validación criptográfica oficial de la firma del contrato y el ecosistema **ZA
 
 <div align="center">
 
-<a href="https://bscscan.com/verifiedSignatures?mId=341721">
-  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794575234555-4cd11fd98f2c4eb15224b46a86a44ec5.png" alt="ZYM Verified Signature" width="220" style="border-radius: 14px; border: 2px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);" />
+<a href="https://bscscan.com/verifiedSignatures?q=341721">
+  <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794575234555-4cd11fd98f2c4eb15224b46a86a44ec5.png" alt="ZYM Verified Signature" width="280" style="border-radius: 14px; border: 2px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);" />
 </a>
 
 <br><br>
 
-<a href="https://bscscan.com/verifiedSignatures?mId=341721">
+<a href="https://bscscan.com/verifiedSignatures?q=341721">
   <img src="https://img.shields.io/badge/VER_FIRMA_BSCSCAN_ID_%23341721-00FF88?style=for-the-badge&logo=bnbchain&logoColor=031411&color=00ff88" alt="Ver Firma en BscScan">
 </a>
 
