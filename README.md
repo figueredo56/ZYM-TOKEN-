@@ -95,7 +95,7 @@ Validación criptográfica oficial de la firma del contrato y el ecosistema **ZA
 <br><br>
 
 <a href="https://bscscan.com/verifiedSignatures?q=341721">
-  <img src="https://img.shields.io/badge/VER_FIRMA_BSCSCAN_ID_%23341721-00FF88?style=for-the-badge&logo=bnbchain&logoColor=031411&color=00ff88" alt="Ver Firma en BscScan">
+  <img src="https://img.shields.io/badge/VER_FIRMA_BSCSCAN_ID_%23341721-00FF88?style=for-the-badge&logo=bnbchain&logoColor=031411&color=00ff8" alt="Ver Firma en BscScan">
 </a>
 
 <br><br>
