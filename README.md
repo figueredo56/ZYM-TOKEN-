@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/figueredo56/ZYM-TOKEN-/592bd95e83b9dab1b9a08fbe2b3cab4a8e4c1f3a/CC_20261105_154458.svg" alt="ZYM Token Logo" width="220" />
 </p>
-`0x5a1de9974c1279fbe989ce32899a1f4ece3fc53d`
+`0x3984bd80e73777f2e790892435338d032b987bc7`
 <div align="center">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1793917735714-d84b28c0d04f3063f454cbc1d8a062fb.png" alt="ZYM Token Logo" width="220" />
   <h1>ZYM Token ($ZYM) | Repositorio Oficial y Documentación</h1>
@@ -88,13 +88,13 @@ Auditoría, código fuente y transacciones on-chain del protocolo **ZYM** dentro
 
 <div align="center">
 
-<a href="https://bscscan.com/address/0x5a1de9974c1279fbe989ce32899a1f4ece3fc53d">
+<a href="https://bscscan.com/address/0x3984bd80e73777f2e790892435338d032b987bc7">
   <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1794575234555-4cd11fd98f2c4eb15224b46a86a44ec5.png" alt="ZYM Smart Contract" width="280" style="border-radius: 14px; border: 2px solid #00ff88; box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);" />
 </a>
 
 <br><br>
 
-<a href="https://bscscan.com/address/0x5a1de9974c1279fbe989ce32899a1f4ece3fc53d">
+<a href="https://bscscan.com/address/0x3984bd80e73777f2e790892435338d032b987bc7">
   <img src="https://img.shields.io/badge/VER_CONTRATO_EN_BSCSCAN-00FF88?style=for-the-badge&logo=bnbchain&logoColor=031411&color=00ff88" alt="Ver Contrato en BscScan">
 </a>
 
@@ -120,6 +120,7 @@ Auditoría, código fuente y transacciones on-chain del protocolo **ZYM** dentro
 
 - **Nombre del Token:** ZYM Token
 - **Ticker:** `$ZYM`
+- **Contrato Inteligente (CA):** `0x3984bd80e73777f2e790892435338d032b987bc7`
 - **Autoría Tecnológica:** ZAARD XENOCRYPT
 - **Arquitectura:** Estándar Descentralizado / Smart Contract Verificado
 - **Estado de Seguridad:** Auditoría de Código y Protección Multicapa
@@ -132,18 +133,18 @@ Todos los contratos inteligentes oficiales y scripts de despliegue se mantienen 
 
 ## 📄 Enlaces e Interfaces Oficiales
 
-* 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
-* 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
-* 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
-* 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
+- 🌐 **Portal Principal:** [https://figueredo56.github.io/DAIoficial/](https://figueredo56.github.io/DAIoficial/)
+- 📊 **ZAARD Tracker App:** [https://figueredo56.github.io/zaard-tracker/](https://figueredo56.github.io/zaard-tracker/)
+- 💼 **ZAARD Nexus Wallet:** [https://figueredo56.github.io/zaard-wallet/](https://figueredo56.github.io/zaard-wallet/)
+- 💬 **Comunidad Oficial Telegram:** [https://t.me/+Cjo5z_yXcdwzYjM5](https://t.me/+Cjo5z_yXcdwzYjM5)
 
 ---
 
 ## 👤 Equipo Core & Desarrollo
 
-* **Lead Blockchain Architect & Founder:** Panga
-* **Firma de Ingeniería Criptográfica:** XENOCRYPT
-* **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+- **Lead Blockchain Architect & Founder:** Panga
+- **Firma de Ingeniería Criptográfica:** XENOCRYPT
+- **Soporte & Contacto Técnico:** [figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
 
 ---
 
